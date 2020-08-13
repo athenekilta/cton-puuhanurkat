@@ -9,3 +9,7 @@
 * ```vimtutor```
 
 ## CTO paljastaa 3+1 keinoa poistua vimistä
+1. ```ZZ```, tallentaa ja poistuu nopeimmalla mahdollisella tavalla (?). Helppoa ja kivaa.
+2. ```:wq```, klassikko.
+3. ```killall -9 vim```, kun terminaali-ikkunan sulkeminen ei ole vaihtoehto.
+3+1. [VIMKiller](https://github.com/caseykneale/VIMKiller) 

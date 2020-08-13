@@ -6,5 +6,6 @@
 * [How do you reload your .vimrc file without restarting vim?](https://superuser.com/questions/132029/how-do-you-reload-your-vimrc-file-without-restarting-vim)
 * [Vim Tricks (esim. uutiskirjeenä meiliin)](https://vimtricks.com/)
 * [Plugarien hallinta](https://medium.com/@paulodiovani/installing-vim-8-plugins-with-the-native-pack-system-39b71c351fea)
+* ```vimtutor```
 
 ## CTO paljastaa 3+1 keinoa poistua vimistä

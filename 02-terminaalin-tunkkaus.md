@@ -11,6 +11,7 @@
 - [htop](https://htop.dev/)
 - zsh:ssa voi vaihtaa kansiota ilman cd-komentoa: kirjoita vain kansion nimi suoraan terminaaliin
 - [zsh syntax hilight](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md)
+- [Mielenkiintoisia plugareita listattuna](https://callstack.com/blog/supercharge-your-terminal-with-zsh/)
 
 ## Kutsu
 ### Moikka kilta!

@@ -2,6 +2,7 @@
 ## Terminaalin tunkkaus timanttiseksi tenttiviikolla 2020-10-22
 - Ubuntu: zsh:n asentaminen: `sudo apt install zsh`
 - [oh-my-zsh](https://ohmyz.sh/): `sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
+- Kannattaako asentaa oh-my-zsh? Myös muita, vähemmän bloatteja on saatavilla.
 - [CTO:n dotfilet](https://github.com/samporapeli/dotfiles/)
 - [Powerline fonts](https://github.com/powerline/fonts)
 - [batcat](https://github.com/sharkdp/bat)
@@ -12,6 +13,11 @@
 - zsh:ssa voi vaihtaa kansiota ilman cd-komentoa: kirjoita vain kansion nimi suoraan terminaaliin
 - [zsh syntax hilight](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md)
 - [Mielenkiintoisia plugareita listattuna](https://callstack.com/blog/supercharge-your-terminal-with-zsh/)
+
+## Ensi jaksossa
+- Linuxin käyttö
+- Git
+- Varmuuskopiot kuntoon
 
 ## Kutsu
 ### Moikka kilta!

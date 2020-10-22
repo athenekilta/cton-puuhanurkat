@@ -3,6 +3,8 @@
 - Ubuntu: zsh:n asentaminen: `sudo apt install zsh`
 - [oh-my-zsh](https://ohmyz.sh/): `sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
 - [CTO:n dotfilet](https://github.com/samporapeli/dotfiles/)
+- [Powerline fonts](https://github.com/powerline/fonts)
+- [batcat](https://github.com/sharkdp/bat)
 ## Kutsu
 ### Moikka kilta!
 Suosittu CTO:n puuhanurkka saa jatkoa, kun tietsikkahenkiset

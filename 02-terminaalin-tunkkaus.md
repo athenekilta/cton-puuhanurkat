@@ -8,6 +8,7 @@
 - `!!` = edellinen komento kokonaisuudessaan
 - `!$` = edellisen komennon viimeinen sana
 - [Missing semester (MIT)](https://missing.csail.mit.edu/2020/shell-tools/)
+- [htop](https://htop.dev/)
 ## Kutsu
 ### Moikka kilta!
 Suosittu CTO:n puuhanurkka saa jatkoa, kun tietsikkahenkiset

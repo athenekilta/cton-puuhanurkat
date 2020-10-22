@@ -10,6 +10,7 @@
 - [Missing semester (MIT)](https://missing.csail.mit.edu/2020/shell-tools/)
 - [htop](https://htop.dev/)
 - zsh:ssa voi vaihtaa kansiota ilman cd-komentoa: kirjoita vain kansion nimi suoraan terminaaliin
+- [zsh syntax hilight](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md)
 
 ## Kutsu
 ### Moikka kilta!

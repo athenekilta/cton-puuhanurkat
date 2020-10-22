@@ -5,6 +5,9 @@
 - [CTO:n dotfilet](https://github.com/samporapeli/dotfiles/)
 - [Powerline fonts](https://github.com/powerline/fonts)
 - [batcat](https://github.com/sharkdp/bat)
+- `!!` = edellinen komento kokonaisuudessaan
+- `!$` = edellisen komennon viimeinen sana
+- [Missing semester (MIT)](https://missing.csail.mit.edu/2020/shell-tools/)
 ## Kutsu
 ### Moikka kilta!
 Suosittu CTO:n puuhanurkka saa jatkoa, kun tietsikkahenkiset

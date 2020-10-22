@@ -14,7 +14,7 @@
 - [zsh syntax hilight](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md)
 - [Mielenkiintoisia plugareita listattuna](https://callstack.com/blog/supercharge-your-terminal-with-zsh/)
 
-## Ensi jaksossa
+## Ensi jaksossa jotain näistä?
 - Linuxin käyttö
 - Git
 - Varmuuskopiot kuntoon

@@ -1,6 +1,7 @@
 # CTO:n puuhanurkka vol 2
 ## Terminaalin tunkkaus timanttiseksi tenttiviikolla 2020-10-22
-
+- [oh-my-zsh](https://ohmyz.sh/): `sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
+## Kutsu
 ### Moikka kilta!
 Suosittu CTO:n puuhanurkka saa jatkoa, kun tietsikkahenkiset
 athenelaiset kokoontuvat tenttiviikon ollessa loppumaisillaan 
